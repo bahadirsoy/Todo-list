@@ -1,0 +1,37 @@
+/* Main CSS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 50%;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+/* input */
+
+input{
+    border-radius: 5px;
+    border: lightblue 3px solid;
+    padding: 0.3rem 0;
+}
+
+
+input:hover{
+    border: royalblue 3px solid;
+}
+
+/* button */
+
+button{
+    padding: 0.3rem 0;
+}
